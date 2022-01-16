@@ -1,16 +1,20 @@
-### Hi there 👋
+## Apps/Games Creator
 
-<!--
-**koteyevlev/koteyevlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://play.google.com/store/apps/details?id=com.CartmansGame.TowerDefence3D" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
+</a>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Orleans](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=orleans&logoColor=E5D3FF)
+![Unity](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=unity&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C%23&logoColor=6296CC)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Python](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/koteyevlev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/lev-k-447643155/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lkoteev)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/koteyevlev)
