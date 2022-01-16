@@ -8,7 +8,7 @@
 ![.Net](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Orleans](https://img.shields.io/badge/-Orleans-090909?style=for-the-badge&logo=orleans&logoColor=E5D3FF)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=E5D3FF)
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C%23&logoColor=6296CC)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
