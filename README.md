@@ -1,4 +1,6 @@
-## Apps/Games Creator
+## About Me
+
+I am Lev. I work as a software developer in big tech companies and currently working at Yandex. Sometimes I create games
 
 <a href="https://play.google.com/store/apps/details?id=com.CartmansGame.TowerDefence3D" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
