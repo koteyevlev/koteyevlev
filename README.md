@@ -1,6 +1,6 @@
 ## About Me
 
-I am Lev. I work as a software developer in big tech companies and currently working at Yandex. Sometimes I create games
+I am Lev. I work as a software developer in big tech companies and currently working at Booking.
 
 <a href="https://play.google.com/store/apps/details?id=com.CartmansGame.TowerDefence3D" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
@@ -19,3 +19,12 @@ I am Lev. I work as a software developer in big tech companies and currently wor
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/lev-k-447643155/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lkoteev)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/koteyevlev)
+
+
+
+<!-- **smonff/smonff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smonff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- [![Les Stats GitHub de smonff](https://github-readme-stats.vercel.app/api?username=smonff&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
