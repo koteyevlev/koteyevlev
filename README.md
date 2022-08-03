@@ -22,7 +22,7 @@ I am Lev. I work as a software developer in big tech companies and currently wor
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koteyevlev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koteyevlev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Les Stats GitHub de smonff](https://github-readme-stats.vercel.app/api?username=smonff&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
